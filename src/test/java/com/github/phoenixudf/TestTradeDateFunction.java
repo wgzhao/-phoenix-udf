@@ -1,10 +1,12 @@
-package com.cxzq.ds;
+package com.github.phoenixudf;
 
 import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
 import org.apache.phoenix.expression.Expression;
 import org.apache.phoenix.expression.LiteralExpression;
 import org.apache.phoenix.schema.types.PInteger;
 import org.junit.Test;
+
+import com.github.phoenixudf.TradeDateFunction;
 
 import java.util.Collections;
 

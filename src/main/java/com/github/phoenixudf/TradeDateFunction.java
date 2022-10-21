@@ -1,4 +1,4 @@
-package com.cxzq.ds;
+package com.github.phoenixudf;
 
 import org.apache.hadoop.hbase.io.ImmutableBytesWritable;
 import org.apache.phoenix.compile.KeyPart;
